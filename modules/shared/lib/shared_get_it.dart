@@ -1,0 +1,1 @@
+export 'src/core/di/shared_get_it.dart';
